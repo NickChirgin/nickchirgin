@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickchirgin&label=Profile%20views&color=0e75b6&style=flat" alt="nickchirgin" /> </p>
 
-- 🌱 I’m currently learning **RabbitMQ, gRPC, WebSocket**
+- 🌱 I’m currently learning **RabbitMQ, WebSocket**
 
 - 📫 How to reach me **nickchirgin@gmail.com**
 
